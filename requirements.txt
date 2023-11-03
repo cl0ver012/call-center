@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+pymongo
+librosa
+soundfile
+whisperx
+SpeechBrain
+python-multipart
